@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @blueice085
-- 👀 I’m interested in Technologies...
-- 🌱 I’m currently learning Asp.Net Core...
+- 👋 Hi, I’m @blueice085.
+- 👀 I’m interested in Technologies.
+- 🌱 I’m currently learning ASP.NET Core.
 
 <!---
 blueice085/blueice085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
