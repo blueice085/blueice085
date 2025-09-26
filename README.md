@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blueice085.
 - 🙏 I’m from Myanmar.
-- 😁 C# ,  ASP.NET developer with over 10  years of experience in software development and implementation in the window/web based applications.
+- 😁 C#, ASP.NET, ASP.NET CORE developer.
 
 
 
